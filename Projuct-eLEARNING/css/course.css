@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.contact {
+    background: linear-gradient(rgba(24, 29, 56, .7), rgba(24, 29, 56, .7)), url(../img/carousel-1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    position: relative;
+    top: 70px;
+}
+
+.contact .img {
+    position: relative;
+    text-align: center;
+    top: 30%;
+}
+
+.contact .img h1 {
+    font-size: 70px;
+    color: #fff;
+    font-weight: 800;
+    line-height: 1.2;
+}
+
+.contact .img span {
+    font-size: 20px;
+    color: #fff;
+}

@@ -1,0 +1,15 @@
+:root {
+    --main-color: #06BBCC;
+    --bs-purple: #1a1a97;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Nunito", sans-serif;
+}
+
+.fxied {
+    top: 0;
+}
